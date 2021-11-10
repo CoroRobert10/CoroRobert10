@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Me llamo Roberto Coronel.</h1>
+<h1 align="center">Hola , Me llamo Roberto Coronel.</h1>
 <h3 align="center">
   Soy un apasionado de la tecnología, los datos y la innovación, siempre buscando nuevos retos. 
 Aprendiendo herramientas como Excel, HTML, CSS, MySQL y Python. 🔎📈
@@ -10,7 +10,7 @@ Aprendiendo herramientas como Excel, HTML, CSS, MySQL y Python. 🔎📈
 
 <p align="left"> <a href="https://twitter.com/cororober" target="blank"><img src="https://img.shields.io/twitter/follow/cororober?logo=twitter&style=for-the-badge" alt="cororober" /></a> </p>
 
-- 🌱 Actualmente estoy aprendiendo **De forma autodidacta HTML,CSS y JAVASCRIPT**
+- 🌱 Actualmente estoy aprendiendo **de forma autodidacta HTML,CSS y JAVASCRIPT**
 
 - 📫 Contactame **coronelroberto1998@gmail.com**
 
